@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="baf7d36e859a8a2dfaf2a9e99d202ee668cf126a">
+        <dex dex="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/transforms/dex/debug/folders/1000/8/bolts-android-1.1.2_b9cc763895c8c9e4e15924bc60a57e29ed10c91e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6d0a449247c82cfbdd5a1a9f768dcc14ce62b918">
+        <dex dex="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2547d2023421cd87834ea937aaa7ff84be172a84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bef11f764560efac558b63c21be63a3e27932790">
+        <dex dex="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5ae399c1189ca8ecfa0bced42d241c7b00dd85c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_3dd3ae3df1c7899c51446fa14bebd05afc6963e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Nani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_428c70812a190f78f773876babf454006be28ab6/classes.dex" />
+    </item>
+
+</items>

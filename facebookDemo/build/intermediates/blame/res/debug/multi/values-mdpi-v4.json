@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/values-mdpi-v4/values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]

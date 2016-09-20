@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/list_inflater.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/layout/list_inflater.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/friend_list.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/layout/friend_list.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/user_info.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/layout/user_info.xml"
+    },
+    {
+        "merged": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/exploded-aar/android-facebook-integration-tutorial-master/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar_stub.xml"
+    }
+]

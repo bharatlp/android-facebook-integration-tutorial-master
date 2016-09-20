@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1081368986893"
+    token="-5450716399761598248" >
+
+    <task
+        name="javac"
+        duration="6924" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4614" />
+    <task
+        name="verifier"
+        duration="641" />
+
+    <artifact
+        location="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/outputs/apk/facebookDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1081368986893" >
+        <artifact
+            location="/Users/Nani/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/outputs/apk/facebookDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
